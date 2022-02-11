@@ -74,6 +74,13 @@
         }
       ],
       "academic": [
+          {
+          "degree": "Platzi Master Program",
+          "description": "Platzi Master is a technical training and professional development program in which you will not only deepen your knowledge in a practical way, but you can also access a whole team of experts in different areas that will help you improve your personal brand, search strategies for Effective work, training and Worshops practical on transversal software engineering themes. You will learn how to improve your profile to make it more interesting towards companies that require your talent and how to negotiate an excellent salary. We have a wonderful community with hundreds of specialized masters in different areas of software development with whom you can interact and exchange knowledge.",
+          "endDate": "Present",
+          "institution": "Platzi",
+          "startDate": "Oct 2021"
+        },
         {
           "degree": "Web Development School",
           "description": "Platzi is a 100% online education platform in which you can access more than 700 courses in different areas of study. In Engineering and Development there is the web development school that focuses on Full Stack web development with HTML, CSS and JavaScript, also mastering tools such as React, Vue, Angular and backend development with Node.js.",
